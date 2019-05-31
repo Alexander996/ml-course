@@ -8,9 +8,9 @@
 
 ((* block packages *))
     \usepackage{fontspec}
-    \setsansfont{CMU Sans Serif}
-    \setmainfont{CMU Serif}
-    \setmonofont{CMU Typewriter Text}
+    \setsansfont{Arial}
+    \setmainfont{Times New Roman}
+    \setmonofont{Arial}
     % \setsansfont{Arial}
     % \setmainfont{Times New Roman}
     % \setmonofont{Consolas}
